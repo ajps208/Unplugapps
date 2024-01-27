@@ -1,5 +1,5 @@
 
-<body>
+
     <h1>Sales Entry Front-end Application</h1>
 
     <h2>UI Example</h2>
@@ -81,4 +81,4 @@
 
     <h2>License</h2>
     <p>This project is licensed under the [License Name] License - see the <a href="LICENSE.md">LICENSE.md</a> file for details.</p>
-</body>
+
