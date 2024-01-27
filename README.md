@@ -4,8 +4,7 @@ This project is a Single Page Sales entry front-end built using ReactJS and Redu
 
 ## UI Example
 
-![Header Detail UI Design](https://ibb.co/rHRFJkL)
-
+<a href="https://ibb.co/rHRFJkL"><img src="https://i.ibb.co/ZxpGCdw/Screenshot-2024-01-27-191804.png" alt="Screenshot-2024-01-27-191804" border="0" /></a>
 ## Features
 
 1. **Header Section:**
